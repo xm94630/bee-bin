@@ -1,0 +1,11 @@
+{
+  "name": "bee-bin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:xm94630/bee-bin.git",
+  "author": "xm94630 <xm94630@126.com>",
+  "license": "MIT",
+  "bin": {
+    "bee": "bee-bin.js",
+  }
+}
